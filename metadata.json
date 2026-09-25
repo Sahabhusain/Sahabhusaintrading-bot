@@ -1,0 +1,6 @@
+{
+  "name": "Axiom Quantitative Trading Bot & Algorithmic Terminal",
+  "description": "High-performance algorithmic trading bot with multi-strategy execution, live backtesting engine, quantitative risk analytics, real-time paper trading, and interactive candlestick charting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
